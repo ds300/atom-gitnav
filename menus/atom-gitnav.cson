@@ -15,6 +15,22 @@
         {
           'label': 'Next'
           'command': 'atom-gitnav:next'
+        },
+        {
+          'label': 'Prev'
+          'command': 'atom-gitnav:prev'
+        },
+        {
+          'label': 'Start'
+          'command': 'atom-gitnav:start'
+        },
+        {
+          'label': 'End'
+          'command': 'atom-gitnav:end'
+        },
+        {
+          'label': 'Build'
+          'command': 'atom-gitnav:build'
         }
       ]
     ]

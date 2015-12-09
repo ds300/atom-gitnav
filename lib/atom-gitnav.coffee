@@ -23,4 +23,5 @@ module.exports = AtomGitnav =
   next: -> gitnav('next')
   prev: -> gitnav('prev')
   start: -> gitnav('start')
-  end: -> gitnav('build')
+  end: -> gitnav('end')
+  build: -> gitnav('build')
